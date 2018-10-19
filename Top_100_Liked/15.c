@@ -38,3 +38,19 @@ class Solution {
         return list;
     }
 }
+
+/*
+Questions to ask:
+1. 
+
+Mistakes done:
+1. Didn't read question correctly. Thought there is some target value.
+2. Read your code always twice. This helps to find both naming problems, logic flaws and some operation you forget.
+ex: I assumed array as arr instead as nums.
+	I forgot writing Arrays.sort at first.
+	forgot start++ and end-- when matches.
+
+Other optimal solutions:
+All top answers followed the same approach
+
+*/
